@@ -1,0 +1,16 @@
+language: go
+
+go:
+  - 1.8
+  - 1.9
+  - 1.10
+  - tip
+
+before_install:
+
+install:
+
+before_script:
+
+script:
+  - go test -v ./...
