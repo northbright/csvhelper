@@ -6,8 +6,13 @@
 !LICENSE
 !*.md
 !*.go
+!go.mod
+!go.sum
 !*.json
+!*.csv
 !.travis.yml
+!*.pem
+config.json
 # For HTML
 !*.html
 !*.js
@@ -15,5 +20,3 @@
 !*.jpg
 !*.png
 !*.gif
-# For CSV
-!*.csv
